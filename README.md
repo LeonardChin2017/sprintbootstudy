@@ -23,3 +23,7 @@ Spring boot initializr: https://start.spring.io/
 My configuration:
 https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.6.6&packaging=jar&jvmVersion=11&groupId=com.example&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.demo&dependencies=web,data-jpa,postgresql
 
+Download the demo file and open it using your favourite IDE.
+![image](https://user-images.githubusercontent.com/25117204/161364935-bbab51be-122a-43a7-bed2-40ff5b1ac25e.png)
+
+
