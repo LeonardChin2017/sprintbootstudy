@@ -26,4 +26,11 @@ https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.6.6
 Download the demo file and open it using your favourite IDE.
 ![image](https://user-images.githubusercontent.com/25117204/161364935-bbab51be-122a-43a7-bed2-40ff5b1ac25e.png)
 
+If you run the project, it will fail to connect to the DB.
+![image](https://user-images.githubusercontent.com/25117204/161365067-c4b3c962-c351-4875-9696-9be46e5272b2.png)
+
+Comment and reload (maven -> reload project) this in poml
+![image](https://user-images.githubusercontent.com/25117204/161365073-d686c583-3bb9-4ab3-be97-4f4da7b10c04.png)
+
+
 
