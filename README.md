@@ -47,4 +47,6 @@ Simple RESTful API from custom student class
 In IntelliJ, you can use Alt + Insert to create constructor, getting, and setter. 
 ![image](https://user-images.githubusercontent.com/25117204/161365566-8cc8a1fc-0345-4280-bcc0-a904573cca73.png)
 
+![image](https://user-images.githubusercontent.com/25117204/161365676-aae6c4b6-fb13-45f0-a685-705a40273494.png)
+![image](https://user-images.githubusercontent.com/25117204/161365685-32ca3879-e040-4ed4-8ac4-d3762591030c.png)
 
