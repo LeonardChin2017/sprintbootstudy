@@ -32,5 +32,9 @@ If you run the project, it will fail to connect to the DB.
 Comment and reload (maven -> reload project) this in poml
 ![image](https://user-images.githubusercontent.com/25117204/161365073-d686c583-3bb9-4ab3-be97-4f4da7b10c04.png)
 
+##Write Simple RESTful API
+
+![image](https://user-images.githubusercontent.com/25117204/161365193-f46e2297-8592-4d80-90f9-ef20734d9c05.png)
+![image](https://user-images.githubusercontent.com/25117204/161365199-6549d88e-bc7a-43cd-886d-5629082cf667.png)
 
 
