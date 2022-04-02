@@ -1,5 +1,6 @@
 # sprint-boot-study
 My study material for spring boot framework.
+https://www.youtube.com/watch?v=9SGDpanrc8U&t=1472s
 
 ## Overview
 Spring boot is an amazing framework for building application using Java / Kotlin. 
@@ -40,5 +41,10 @@ Comment and reload (maven -> reload project) this in poml
 ![image](https://user-images.githubusercontent.com/25117204/161365256-c90fd126-615f-4f47-978b-716010c15c4d.png)
 ![image](https://user-images.githubusercontent.com/25117204/161365263-f9b79326-5e87-46ad-aa9e-6f24bbf7f75a.png)
 
+Simple RESTful API from custom student class
+![image](https://user-images.githubusercontent.com/25117204/161365540-bfbbcc0a-e71b-4196-b5f5-76887d12a6e5.png)
+
+In IntelliJ, you can use Alt + Insert to create constructor, getting, and setter. 
+![image](https://user-images.githubusercontent.com/25117204/161365566-8cc8a1fc-0345-4280-bcc0-a904573cca73.png)
 
 
